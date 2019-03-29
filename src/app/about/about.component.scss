@@ -1,0 +1,33 @@
+.test {
+  background: darkslategrey;
+  color: aqua;
+  font-size: larger;
+  border-radius: 4px;
+  width: 10em;
+  margin: 2px;
+}
+.btn {
+  color: aliceblue;
+  background-color: darkslategrey;
+  border-color: darkslategrey;
+  width: 7em;
+  height: 50px;
+  font-size: 18px;
+  margin: 2px;
+
+}
+
+.my-1 {
+  display: flex;
+  height: 60px;
+  justify-content: flex-start;
+  align-items: baseline;
+  align-content: space-between;
+}
+
+.form-control {
+  width: 15em;
+  height: 50px;
+  margin: 2px;
+
+}
